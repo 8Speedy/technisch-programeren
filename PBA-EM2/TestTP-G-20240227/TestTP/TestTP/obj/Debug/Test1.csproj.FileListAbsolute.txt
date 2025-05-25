@@ -1,0 +1,137 @@
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\bin\Debug\Test1.exe.config
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\bin\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\bin\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\bin\Debug\M2Mqtt.Net.dll
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\TestTP.Exercises.OneInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\TestTP.Exercises.ThreeInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\TestTP.Form1.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\Test1.csproj.CopyComplete
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2021-2022\TP\projects\TestTP\TestTP\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\bin\Debug\Test1.exe.config
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\bin\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\bin\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\TestTP.Exercises.OneInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\TestTP.Exercises.ThreeInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\TestTP.Form1.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\Test1.csproj.CopyComplete
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20220304\TestTP\TestTP\obj\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\Test1.exe.config
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.SuggestedBindingRedirects.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Exercises.OneInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Exercises.ThreeInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Form1.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.CopyComplete
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.pdb
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\Test1.exe.config
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\Test1.exe
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\Test1.pdb
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\M2Mqtt.Net.pdb
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Exercises.OneInEightOutControl.resources
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInEightOutControl.resources
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInOneOutControl.resources
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Exercises.ThreeInOneOutControl.resources
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Form1.resources
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.csproj.CopyComplete
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.exe
+C:\Temp\Test1-Voorbeeld-20230216\TestTP\TestTP\obj\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\bin\Debug\Test1.exe.config
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\bin\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\bin\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\TestTP.Exercises.OneInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\TestTP.Exercises.ThreeInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\TestTP.Form1.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\Test1.csproj.CopyComplete
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-GH-20230302\TestTP\TestTP\obj\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\bin\Debug\Test1.exe.config
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\bin\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\bin\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\TestTP.Exercises.OneInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\TestTP.Exercises.ThreeInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\TestTP.Form1.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\Test1.csproj.CopyComplete
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2022-2023\TP\auTOMation\projects\TestTP-AB-20230302\TestTP\TestTP\obj\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\bin\Debug\Test1.exe.config
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\bin\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\bin\Debug\Test1.pdb
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\TestTP.Exercises.OneInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInEightOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\TestTP.Exercises.ThreeInOneOutControl.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\TestTP.Form1.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\Test1.csproj.CopyComplete
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\Test1.exe
+C:\Users\slie052\OneDrive - Hogeschool Gent\2023-2024\TP\TestTP\Test1\TestTP\TestTP\obj\Debug\Test1.pdb
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\bin\Debug\Test1.exe.config
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\bin\Debug\Test1.exe
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\bin\Debug\Test1.pdb
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\Test1.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\TestTP.Exercises.OneInEightOutControl.resources
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInEightOutControl.resources
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\TestTP.Exercises.EightInOneOutControl.resources
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\TestTP.Exercises.ThreeInOneOutControl.resources
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\TestTP.Form1.resources
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\TestTP.Properties.Resources.resources
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\Test1.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\Test1.csproj.Up2Date
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\Test1.exe
+C:\Users\maxim\source\repos\TestTP-G-20240227\TestTP\TestTP\obj\Debug\Test1.pdb
