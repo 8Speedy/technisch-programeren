@@ -1,2 +1,2 @@
-# technisch-programeren
+# Technisch Programeren
 Technisch programeren C# branch
