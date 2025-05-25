@@ -1,0 +1,10 @@
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\bin\Debug\StroomWeerstandVermogen.exe.config
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\bin\Debug\StroomWeerstandVermogen.exe
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\bin\Debug\StroomWeerstandVermogen.pdb
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\obj\Debug\StroomWeerstandVermogen.csproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\obj\Debug\StroomWeerstandVermogen.Form1.resources
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\obj\Debug\StroomWeerstandVermogen.Properties.Resources.resources
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\obj\Debug\StroomWeerstandVermogen.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\obj\Debug\StroomWeerstandVermogen.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\obj\Debug\StroomWeerstandVermogen.exe
+C:\Users\maxim\source\repos\StroomWeerstandVermogen\StroomWeerstandVermogen\obj\Debug\StroomWeerstandVermogen.pdb
